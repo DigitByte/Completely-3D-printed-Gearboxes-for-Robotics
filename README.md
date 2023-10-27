@@ -18,7 +18,7 @@ The versatility of these 3D printed components is only limited by your imaginati
 
 - **Actuators:** Employ these actuators for precise and controlled linear motion, perfect for projects demanding accuracy.
 
-For comprehensive usage guidelines and advanced applications, please consult the [Documentation](#DOCUMENTATION.md) section.
+For comprehensive usage guidelines and advanced applications, please consult the [Documentation](DOCUMENTATION.md) section.
 
 ## Feedback and Contributions
 
