@@ -20,23 +20,12 @@ The versatility of these 3D printed components is only limited by your imaginati
 
 For comprehensive usage guidelines and advanced applications, please consult the [Documentation](DOCUMENTATION.md) section.
 
-## Feedback and Contributions
 
-We value your feedback and contributions to improve this project. If you encounter bugs, have feature requests, or wish to contribute, refer to our [Contribution Guidelines](CONTRIBUTING.md).
-
-Thank you for using 3D Printed Servos, Gearboxes, and Actuators!
- 
 
 ## License
 This project is licensed under the MIT License. Feel free to use and modify the designs for your projects, and we encourage contributions from the community.
 
 Documentation
 Detailed documentation, including assembly guides, user manuals, and bill of materials, can be found in the documentation folder.
-
-Please visit the Wiki for additional information.
-
-## Credits
-This project is made possible by the contributions of numerous individuals. I'd like to thank the following contributors for their hard work and dedication.
-If you use or modify our designs, please give credit to this repository and the respective contributors.
 
 
